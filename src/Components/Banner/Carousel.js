@@ -39,7 +39,6 @@ const Carousel = () => {
         setTrending(data);
     };
 
-    console.log(trending);
     useEffect(()=>{
         fetchTrendingCoins();
     },[currency]);
@@ -92,7 +91,7 @@ const Carousel = () => {
         <AliceCarousel
             mouseTracking
             infinite
-            autoPlayInterval={100}
+            autoPlayInterval={1000}
             animationDuration={1500}
             disableDotsControls
             disableButtonsControls

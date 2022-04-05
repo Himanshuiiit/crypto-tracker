@@ -134,7 +134,6 @@ const CoinPage = () => {
           </span>
         </div>
       </div>
-
       <CoinInfo coin={coins} />
     </div>
   );
