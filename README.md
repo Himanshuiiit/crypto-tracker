@@ -1,3 +1,20 @@
+<h1>Crypto Trcker</h1>
+<u><h3>The cryptocurrency price tracker</h3></u>
+
+<p>
+  A web app that can show the price, marketcap and rank of crypto currency.<br>
+  Material UI is used to create the components and  is used coinsgecko api is used for real time data.<br>
+  Firebase is used to save the user data.
+</p>
+<ul>
+  <h4>Features of the app</h4>
+  <li>Sign up and login</li>
+  <li>Custom wishlist of the user</li>
+  <li>Graph of the coin for last one day or one week or one month</li>
+</ul>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
