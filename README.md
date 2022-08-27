@@ -8,8 +8,8 @@
 </p>
 <ul>
   <h4>Features of the app</h4>
-  <li>Sign up and login</li>
-  <li>Custom wishlist of the user</li>
+  <li>Check the crypto data</li>
+  <li>Find the top treding coins</li>
   <li>Graph of the coin for last one day or one week or one month</li>
 </ul>
 
